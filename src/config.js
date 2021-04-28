@@ -7,8 +7,8 @@ module.exports = {
       url: 'https://github.com/antarr',
     },
     {
-      name: 'Twitter',
-      url: 'https://twitter.com/debuggn_life',
+      name: 'Stackoverflow',
+      url: 'https://stackoverflow.com/users/504963/antarr-byrd',
     },
     {
       name: 'Linkedin',
