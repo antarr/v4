@@ -1,9 +1,9 @@
 ---
-date: '3'
+date: '1'
 title: 'At Last Clothing'
 cover: './atlast.png'
 github: ''
-external: 'https://halcyon-theme.netlify.com/'
+external: 'https://atlastclothing.com'
 tech:
   - Ruby on Rails
   - CSS
