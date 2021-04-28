@@ -7,10 +7,6 @@ module.exports = {
       url: 'https://github.com/antarr',
     },
     {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/igotjackinmycup',
-    },
-    {
       name: 'Twitter',
       url: 'https://twitter.com/debuggn_life',
     },
@@ -18,10 +14,10 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/antarrbyrd',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7',
-    // },
+    {
+      name: 'Medium',
+      url: 'https://www.medium.com/@antarr',
+    },
   ],
 
   navLinks: [
