@@ -148,7 +148,7 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Antar and I enjoy working will the awesome internet technologies. My
+              Hello! My name is Antarr and I enjoy working will the awesome internet technologies. My
               interest in web development started as a teenager when I began customizing themes on sites like
               Blackplanet and Myspace. I've always been a problem solver who loves to tinker.
             </p>
